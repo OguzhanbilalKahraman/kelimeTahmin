@@ -1,0 +1,10 @@
+C:\Users\oguzh\Desktop\Windows Form APP\kelimeTahmin\kelimeTahmin\bin\Debug\kelimeTahmin.exe.config
+C:\Users\oguzh\Desktop\Windows Form APP\kelimeTahmin\kelimeTahmin\bin\Debug\kelimeTahmin.exe
+C:\Users\oguzh\Desktop\Windows Form APP\kelimeTahmin\kelimeTahmin\bin\Debug\kelimeTahmin.pdb
+C:\Users\oguzh\Desktop\Windows Form APP\kelimeTahmin\kelimeTahmin\obj\Debug\kelimeTahmin.csprojAssemblyReference.cache
+C:\Users\oguzh\Desktop\Windows Form APP\kelimeTahmin\kelimeTahmin\obj\Debug\kelimeTahmin.Form1.resources
+C:\Users\oguzh\Desktop\Windows Form APP\kelimeTahmin\kelimeTahmin\obj\Debug\kelimeTahmin.Properties.Resources.resources
+C:\Users\oguzh\Desktop\Windows Form APP\kelimeTahmin\kelimeTahmin\obj\Debug\kelimeTahmin.csproj.GenerateResource.cache
+C:\Users\oguzh\Desktop\Windows Form APP\kelimeTahmin\kelimeTahmin\obj\Debug\kelimeTahmin.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\Desktop\Windows Form APP\kelimeTahmin\kelimeTahmin\obj\Debug\kelimeTahmin.exe
+C:\Users\oguzh\Desktop\Windows Form APP\kelimeTahmin\kelimeTahmin\obj\Debug\kelimeTahmin.pdb
